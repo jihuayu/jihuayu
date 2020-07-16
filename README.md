@@ -6,6 +6,8 @@
 
 我喜欢向大家分享一些自己的心得体会，当然我也很喜欢交朋友。
 
+如果你来福州找我玩，可以用[GPG密钥](https://github.com/jihuayu/jihuayu/blob/master/gpg.txt)确认我是我。
+
 我的邮箱是 8042833@qq.com ，欢迎给我发邮件。
 
 这是我的[简历](https://github.com/jihuayu/jihuayu/blob/master/resume.pdf)如果你对我感兴趣可以给我发邮件，谢谢。
