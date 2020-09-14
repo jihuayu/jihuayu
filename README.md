@@ -11,3 +11,5 @@
 我的邮箱是 8042833@qq.com ，欢迎给我发邮件。
 
 这是我的[简历](https://github.com/jihuayu/jihuayu/blob/master/resume.pdf)如果你对我感兴趣可以给我发邮件，谢谢。
+
+![ReadmeStats-Image](https://github-readme-stats.vercel.app/api?username=jihuayu&show_icons=true&bg_color=ffffff)
